@@ -218,3 +218,5 @@ These fixes came from running real edge-case queries, not from the first generat
 ---
 
 ### 🎥 Demo Video Walkthorough
+
+**[Watch the Demo Video Here](https://www.youtube.com/watch?v=oTmPDLHNdRM)**
